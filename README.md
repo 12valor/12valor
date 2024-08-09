@@ -1,7 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+AG+Evangelista!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=40&duration=1000&pause=1000&color=00FF0E&background=000000&center=true&vCenter=true&width=435&lines=Hello!;I'm+AG+Evangelista"/>
 </h1>
 <h3 align="center">A 2nd year college student from Philippines</h3>
 
