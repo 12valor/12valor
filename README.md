@@ -4,8 +4,6 @@ About Me: <br><br>
 👨‍🎓 Pursuing a degree in Computer Engineering Technology at Technical University of the Philippines - Visayas.<br>
 👨‍💻 Actively expanding skills in JavaScript and React to build dynamic, responsive web applications.<br>
 <br>
-<Languages/Frameworks> <br><br>
-[![Languages](https://skillicons.dev/icons?i=cpp,html,css,javascript,java,tailwind&perline=50)](https://skillicons.dev)
-<br><br>
-<Tools> <br><br>
-[![Skills](https://skillicons.dev/icons?i=vscode,photoshop,blender,nodejs,windows,github,git,&perline=50)](https://skillicons.dev)
+<Languages/Frameworks/tools> <br><br>
+[![Languages](https://skillicons.dev/icons?i=cpp,html,css,javascript,java,tailwind,vscode,photoshop,blender,nodejs,windows,github,git,&perline=50)](https://skillicons.dev)
+<br>
