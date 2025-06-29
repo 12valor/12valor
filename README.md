@@ -1,22 +1,10 @@
-<h1 align="center" style="color:#800000;">🎨 Gie Diaz — Creative Developer & Tech Explorer</h1>
-
 <p align="center">
-  <em>Poster designer | Frontend dev in training | TUPV student 🇵🇭</em><br>
-  <strong style="color:#800000;">"Blending creativity and code, one pixel at a time."</strong>
+  <img src="https://img.shields.io/badge/🎨%20Gie%20Diaz%20—%20Creative%20Developer%20-%23800000?style=for-the-badge&logoColor=white&color=800000" />
 </p>
 
 ---
 
-## 🖌️ What I Do
-
-- 🎓 2nd Year BS Computer Engineering Technology @ TUP Visayas  
-- 🎨 Poster & Pubmat Designer (Roblox GFX, thumbnails, events)  
-- 💻 Building websites, dashboards, and basic systems with AI help  
-- 🧠 Exploring Python, React, Arduino, VB.NET, Tailwind & more  
-
----
-
-## 💼 Projects in Focus
+<img src="https://img.shields.io/badge/💼%20Projects%20In%20Focus-%23800000?style=flat-square&color=800000" />
 
 | 💻 Web Development                        | 🖥️ Desktop + Embedded                     |
 |------------------------------------------|-------------------------------------------|
@@ -26,45 +14,30 @@
 
 ---
 
-## 🛠️ Tools I Use
-
-![HTML5](https://img.shields.io/badge/-HTML5-800000?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-800000?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-800000?style=flat&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-800000?style=flat&logo=react&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-800000?style=flat&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-800000?style=flat&logo=python&logoColor=white)
-![VB.NET](https://img.shields.io/badge/-VB.NET-800000?style=flat&logo=dotnet&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-800000?style=flat&logo=arduino&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-800000?style=flat&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-800000?style=flat&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Stats (Dark Maroon Theme)
+<img src="https://img.shields.io/badge/🧠%20Tech%20Stack%20%26%20Tools-%23800000?style=flat-square&color=800000" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=12valor&show_icons=true&hide_title=false&hide_border=true&card_width=450&bg_color=1F1F1F&title_color=800000&text_color=FFFFFF&icon_color=800000" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12valor&layout=compact&hide_border=true&card_width=320&bg_color=1F1F1F&title_color=800000&text_color=FFFFFF" height="180px" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,python,vb,arduino,mysql,github" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophy Wall
+<img src="https://img.shields.io/badge/📊%20GitHub%20Stats%20(Maroon%20Style)-%23800000?style=flat-square&color=800000" />
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=12valor&theme=darkhub&title=Commit,Repositories,Followers,Stars,PullRequest&margin-w=10&no-frame=true&no-bg=true&rank=-" />
+  <img src="https://github-readme-stats.vercel.app/api?username=12valor&show_icons=true&hide_border=true&bg_color=1F1F1F&title_color=800000&icon_color=800000&text_color=ffffff" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12valor&layout=compact&hide_border=true&bg_color=1F1F1F&title_color=800000&text_color=ffffff" height="180" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+<img src="https://img.shields.io/badge/📬%20Contact%20%26%20Collab-%23800000?style=flat-square&color=800000" />
 
-> 📍 Bacolod City, Philippines  
-> 🎓 Student at [TUP Visayas](https://www.tup.edu.ph/)  
-> 🎮 Roblox GFX / Thumbnails / Posters  
-> 📨 [Let's collab!](mailto:evangelista.agdiaz@gmail.com)
+📍 Bacolod City, Philippines  
+🎓 Student at [TUP Visayas](https://www.tup.edu.ph/)  
+🎨 Designer of thumbnails, GFX, & school posters  
+📬 [Email Me](mailto:evangelista.agdiaz@gmail.com)
 
 ---
 
-<p align="center"><em>Made with ❤️ and maroon passion ✊</em></p>
+<p align="center"><img src="https://img.shields.io/badge/Made%20with%20❤️%20and%20Maroon%20Passion-%23800000?style=for-the-badge&logo=github" /></p>
