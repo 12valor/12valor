@@ -41,18 +41,26 @@
 
 ---
 
-## 📊 GitHub Stats (Maroon Style)
+## 📊 GitHub Stats (Dark Maroon Theme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=12valor&show_icons=true&theme=maroongold&hide=stars&bg_color=ffffff&title_color=800000&icon_color=800000&text_color=444" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12valor&layout=compact&theme=maroongold&bg_color=ffffff&title_color=800000&text_color=444" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=12valor&show_icons=true&hide_title=false&hide_border=true&card_width=450&bg_color=1F1F1F&title_color=800000&text_color=FFFFFF&icon_color=800000" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12valor&layout=compact&hide_border=true&card_width=320&bg_color=1F1F1F&title_color=800000&text_color=FFFFFF" height="180px" />
+</p>
+
+---
+
+## 🏆 GitHub Trophy Wall
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=12valor&theme=darkhub&title=Commit,Repositories,Followers,Stars,PullRequest&margin-w=10&no-frame=true&no-bg=true&rank=-" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-> 📍 Iloilo, Philippines  
+> 📍 Bacolod City, Philippines  
 > 🎓 Student at [TUP Visayas](https://www.tup.edu.ph/)  
 > 🎮 Roblox GFX / Thumbnails / Posters  
 > 📨 [Let's collab!](mailto:evangelista.agdiaz@gmail.com)
