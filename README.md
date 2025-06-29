@@ -1,9 +1,9 @@
 <h1 align="center" style="font-size: 48px; color: #800000;">
-  🎨 Gie Diaz
+  AG Diaz Evangelista
 </h1>
 
 <h3 align="center" style="color: #800000;">
-  Creative Developer · Poster Designer · TUP Visayas Student 🇵🇭
+  Designer · College
 </h3>
 
 <p align="center"><strong>"Blending creativity and code, one pixel at a time."</strong></p>
@@ -12,14 +12,17 @@
   <img src="https://komarev.com/ghpvc/?username=12valor&label=Profile+Views&color=800000&style=flat-square" alt="profile views" />
 </p>
 
+---
+
+<img src="https://img.shields.io/badge/🏆%20Trophy%20Wall-%23800000?style=flat-square&color=800000" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎨%20Gie%20Diaz%20—%20Creative%20Developer%20-%23800000?style=for-the-badge&logoColor=white&color=800000" />
+  <img src="https://github-profile-trophy.vercel.app/?username=12valor&theme=flat&margin-w=15&margin-h=15&no-frame=true&row=2&column=6" />
 </p>
 
 ---
 
-<img src="https://img.shields.io/badge/💼%20Projects%20In%20Focus-%23800000?style=flat-square&color=800000" />
+<img src="https://img.shields.io/badge/💼%20Recent%20Projects%20-%23800000?style=flat-square&color=800000" />
 
 | 💻 Web Development                        | 🖥️ Desktop + Embedded                     |
 |------------------------------------------|-------------------------------------------|
@@ -31,17 +34,23 @@
 
 <img src="https://img.shields.io/badge/🧠%20Tech%20Stack%20%26%20Tools-%23800000?style=flat-square&color=800000" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,python,vb,arduino,mysql,github" />
-</p>
+### 🧰 Tools & Technologies
+
+| 💻 Web Development         | ⚙️ Embedded / Systems        | 🔌 Electronics         | 🎨 Design Tools         |
+|---------------------------|------------------------------|------------------------|-------------------------|
+| HTML                      | Arduino                      | Multisim               | Photoshop               |
+| CSS                       | VB.NET                       | AutoCAD                | Photopea                |
+| JavaScript                | Python                       |                        | Canva                   |
+| Tailwind CSS              | Java                         |                        | Figma                   |
+| React                     | C++                          |                        |                         |
 
 ---
 
 <img src="https://img.shields.io/badge/📊%20GitHub%20Stats%20(Maroon%20Style)-%23800000?style=flat-square&color=800000" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=12valor&show_icons=true&hide_border=true&bg_color=1F1F1F&title_color=800000&icon_color=800000&text_color=ffffff" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12valor&layout=compact&hide_border=true&bg_color=1F1F1F&title_color=800000&text_color=ffffff" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=12valor&show_icons=true&hide_border=true&bg_color=ffffff&title_color=800000&icon_color=800000&text_color=000000" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12valor&layout=compact&hide_border=true&bg_color=ffffff&title_color=800000&text_color=000000" height="180" />
 </p>
 
 ---
@@ -55,4 +64,6 @@
 
 ---
 
-<p align="center"><img src="https://img.shields.io/badge/Made%20with%20❤️%20and%20Maroon%20Passion-%23800000?style=for-the-badge&logo=github" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20and%20Maroon%20Passion-%23800000?style=for-the-badge&logo=github" />
+</p>
