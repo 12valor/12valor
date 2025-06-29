@@ -1,3 +1,9 @@
+
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=12valor&repo=Graphic-Designs&theme=shadow_red)](https://github.com/12valor/Graphic-Designs)
+
+
+
 <h1 align="center" style="font-size: 48px; color: #800000;">
   AG Diaz Evangelista
 </h1>
@@ -17,7 +23,7 @@
 <img src="https://img.shields.io/badge/🏆%20Trophy%20Wall-%23800000?style=flat-square&color=800000" />
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=12valor&theme=flat&margin-w=15&margin-h=15&no-frame=true&row=2&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=12valor&theme=flat&no-frame=true&margin-w=15&title=Followers,Stars,Commits,Issues,PullRequest,Repositories" />
 </p>
 
 ---
@@ -46,12 +52,8 @@
 
 ---
 
-<img src="https://img.shields.io/badge/📊%20GitHub%20Stats%20(Maroon%20Style)-%23800000?style=flat-square&color=800000" />
+![12valor's GitHub stats](https://github-readme-stats.vercel.app/api?username=12valor&theme=rose&show_icons=true&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=12valor&show_icons=true&hide_border=true&bg_color=ffffff&title_color=800000&icon_color=800000&text_color=000000" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12valor&layout=compact&hide_border=true&bg_color=ffffff&title_color=800000&text_color=000000" height="180" />
-</p>
 
 ---
 
