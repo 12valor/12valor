@@ -1,28 +1,3 @@
-<p align="center">
-  <a href="https://github.com/12valor/Graphic-Designs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=12valor&repo=Graphic-Designs&theme=shadow_red" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/12valor/2nd-year-activities-in-Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=12valor&repo=2nd-year-activities-in-Python&theme=shadow_red" />
-  </a>
-  <a href="https://github.com/12valor/2nd-year-activities-in-HTML-Development">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=12valor&repo=2nd-year-activities-in-HTML-Development&theme=shadow_red" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/12valor/2nd-year-activities-in-Arduino-Uno">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=12valor&repo=2nd-year-activities-in-Arduino-Uno&theme=shadow_red" />
-  </a>
-  <a href="https://github.com/12valor/2nd-year-activities-in-VB.net">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=12valor&repo=2nd-year-activities-in-VB.net&theme=shadow_red" />
-  </a>
-</p>
-
-
 <h1 align="center" style="font-size: 48px; color: #800000;">
   AG Diaz Evangelista
 </h1>
