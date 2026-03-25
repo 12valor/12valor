@@ -15,3 +15,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20and%20Maroon%20Passion-%23800000?style=for-the-badge&logo=github" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=12valor&show_icons=true&theme=default&hide_border=true&title_color=800000&icon_color=800000" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12valor&layout=compact&hide_border=true&title_color=800000&langs_count=6" height="160" />
+</p>
