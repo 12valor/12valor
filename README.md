@@ -20,44 +20,12 @@
 
 <h3 style="color: #800000;">Tech Stack & Tools</h3>
 
-<p>
-  <strong>Frontend</strong><br>
-  <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js"/> &nbsp;&nbsp;&nbsp;
-  <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS"/> &nbsp;&nbsp;&nbsp;
-  <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js"/>
-</p>
-
-<p>
-  <strong>Backend</strong><br>
-  <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase"/> &nbsp;&nbsp;&nbsp;
-  <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma"/> &nbsp;&nbsp;&nbsp;
-  <img align="middle" width="40" src="https://cdn.simpleicons.org/xampp/FB503B" alt="XAMPP" title="XAMPP"/>
-</p>
-
-<p>
-  <strong>Editing</strong><br>
-  <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" title="Figma"/> &nbsp;&nbsp;&nbsp;
-  <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" title="Canva"/> &nbsp;&nbsp;&nbsp;
-  <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Photoshop" title="Photoshop"/> &nbsp;&nbsp;&nbsp;
-  <img align="middle" width="40" src="https://cdn.simpleicons.org/capcut/FFFFFF" alt="CapCut" title="CapCut"/>
-</p>
-
-<p>
-  <strong>Have some background in:</strong><br>
-  <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/> &nbsp;&nbsp;&nbsp;
-  <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java"/> &nbsp;&nbsp;&nbsp;
-  <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python"/> &nbsp;&nbsp;&nbsp;
-  <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="Blender" title="Blender"/> &nbsp;&nbsp;&nbsp;
-  <img align="middle" width="40" src="https://cdn.simpleicons.org/vercel/FFFFFF" alt="Vercel" title="Vercel"/> &nbsp;&nbsp;&nbsp;
-  <img align="middle" height="28" src="https://img.shields.io/badge/Multisim-%23000000?style=for-the-badge" alt="Multisim" title="Multisim"/>
-</p>
-
-<p>
-  <strong>Tools & IDEs</strong><br>
-  <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git"/> &nbsp;&nbsp;&nbsp;
-  <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code"/> &nbsp;&nbsp;&nbsp;
-  <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino IDE" title="Arduino IDE"/> &nbsp;&nbsp;&nbsp;
-  <img align="middle" height="28" src="https://img.shields.io/badge/Antigravity-%23000000?style=for-the-badge" alt="Antigravity" title="Antigravity"/>
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js"/> &nbsp;&nbsp; <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS"/> &nbsp;&nbsp; <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js"/> |
+| **Backend** | <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase"/> &nbsp;&nbsp; <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma"/> &nbsp;&nbsp; <img align="middle" width="40" src="https://cdn.simpleicons.org/xampp/FB503B" alt="XAMPP" title="XAMPP"/> |
+| **Editing** | <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" title="Figma"/> &nbsp;&nbsp; <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" title="Canva"/> &nbsp;&nbsp; <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Photoshop" title="Photoshop"/> &nbsp;&nbsp; <img align="middle" height="28" src="https://img.shields.io/badge/CapCut-%23000000?style=for-the-badge" alt="CapCut" title="CapCut"/> |
+| **Background** | <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/> &nbsp;&nbsp; <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java"/> &nbsp;&nbsp; <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python"/> &nbsp;&nbsp; <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="Blender" title="Blender"/> &nbsp;&nbsp; <img align="middle" width="40" src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" title="Vercel"/> &nbsp;&nbsp; <img align="middle" height="28" src="https://img.shields.io/badge/Multisim-%23000000?style=for-the-badge" alt="Multisim" title="Multisim"/> |
+| **Tools & IDEs** | <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git"/> &nbsp;&nbsp; <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code"/> &nbsp;&nbsp; <img align="middle" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino IDE" title="Arduino IDE"/> &nbsp;&nbsp; <img align="middle" width="40" src="https://cdn.simpleicons.org/cloudinary/3448C5" alt="Cloudinary" title="Cloudinary"/> &nbsp;&nbsp; <img align="middle" height="28" src="https://img.shields.io/badge/Antigravity-%23000000?style=for-the-badge" alt="Antigravity" title="Antigravity"/> |
 
 <hr style="border: 1px solid #800000;">
