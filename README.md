@@ -3,10 +3,8 @@
 </h1>
 
 <h3 align="center" style="color: #800000;">
-  Designer · Comptech Student · Developer
+  Designer · Developer
 </h3>
-
-<p align="center"><strong>"Blending creativity and code, one pixel at a time."</strong></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=12valor&label=Profile+Views&color=800000&style=flat-square" alt="profile views" />
