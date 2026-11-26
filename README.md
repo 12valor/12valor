@@ -3,7 +3,7 @@
 
 # AG Diaz Evangelista
 
-### Web Developer · UI/UX Designer · Founder
+### Web Developer
 
 Computer Engineering Technology student based in Negros Occidental, Philippines.
 
