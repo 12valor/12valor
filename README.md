@@ -3,8 +3,6 @@
 
 # AG Diaz Evangelista
 
-### Web Developer
-
 Computer Engineering Technology student based in Negros Occidental, Philippines.
 
 Building thoughtful digital experiences and practical web-based solutions.
